@@ -1,0 +1,7 @@
+
+程序中 test_data 为需要分析的数据；
+大家要做的修改是 load 那行程序；
+
+故障发现结果为一个范围：
+
+indicator + windowsize
